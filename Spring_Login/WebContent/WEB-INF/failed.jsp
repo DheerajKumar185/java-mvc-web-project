@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1 align="center">Please enter valid User Name and Password</h1>
+<h1 align="center">${message}</h1>
 <p align="right"><a href="index.jsp">Go to login</a></p>
 </body>
 </html>
